@@ -24,7 +24,6 @@ O projeto utiliza:
   <img src="images/image%20(1).png" width="180" alt="Fluxo de Compra" />
   <img src="images/image%20(2).png" width="180" alt="Mapa Interativo" />
   <img src="images/image%20(3).png" width="180" alt="Hub de Inovação" />
-  <img src="images/image%20(4).png" width="180" alt="Login" />
 </p>
 
 > Projeto criado com foco em boas práticas de desenvolvimento Android moderno e experiência do usuário.
